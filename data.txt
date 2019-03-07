@@ -1,0 +1,1 @@
+/Users/wangheran/software/anaconda/anaconda3/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/mysql/bin:/Users/wangheran/software/maven/apache-maven-3.6.0/bin
