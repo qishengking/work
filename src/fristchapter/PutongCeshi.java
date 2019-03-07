@@ -39,9 +39,7 @@ public class PutongCeshi {
 //            System.out.println(i);
 //        }
 
-        for(int i=3;i>1;i--){
-            System.out.println(i);
-        }
+
     }
 
 
