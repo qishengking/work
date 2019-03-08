@@ -15,7 +15,8 @@ public class Average {
     public static void main(String[] args) {
         int count = 0;       // number input values
         double sum = 0.0;    // sum of input values
-        String a = "sdfsdfasd";
+        String a = "sdfsdfasddfg";
+        String ad = "sdfsdf";
 
         // read data and compute statistics
 //        while (!StdIn.isEmpty()) {
